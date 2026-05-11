@@ -20,7 +20,7 @@ Large files (`Colon_cell_atlas.h5ad`, `Colon_immune_counts.mtx`) are excluded fr
 | `data/Colon_immune_metadata.csv` | Cell-level metadata (donor, region, cell type, clonotype) |
 | `data/Colon_immune_gene_names.csv` | Gene name list for sparse counts matrix |
 | `data/metagenomics_taxa.csv` | Merged MetaPhlAn taxonomic profiles |
-| `data/supplemental_data_edited.xlsx` | Plasma IgA/IgG antibody data (Jäger et al. 2021) |
+| `data/supplemental_data_edited.xlsx` | all of the metadata from the original James et al. paper |
 
 ## Reference
 

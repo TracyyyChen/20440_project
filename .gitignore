@@ -1,0 +1,22 @@
+# Large scRNA-seq data files (download from source)
+data/Colon_cell_atlas.h5ad
+data/Colon_immune_counts.mtx
+adata_bcells.h5ad
+
+# Metagenomics pipeline outputs
+humann/
+eggnog/
+
+# Generated figures and reports
+*.html
+*.pdf
+iga_plasma_dotplot_fig5a.pdf
+
+# Temporary and system files
+~$*
+.DS_Store
+**/.DS_Store
+
+# Other notebooks and scripts not part of main analysis
+20440_paper_figures.ipynb
+_make_paper_notebook.py

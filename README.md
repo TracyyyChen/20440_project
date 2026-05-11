@@ -1,4 +1,4 @@
-# 20.440 Final Project — Host–Microbiome Interactions in the Human Colon
+# 20.440 Final Project: Host–Microbiome Interactions in the Human Colon
 
 **Tracy Chen & Eden Fleshler** | MIT 20.440 Analysis of Biological Networks
 
@@ -8,7 +8,7 @@ Single-cell RNA-seq and 16S microbiome analysis of the human colon, examining ho
 
 ## Notebook
 
-`20440_project.ipynb` — full analysis including UMAPs, IgA/IgG plasma cell marker gene dot plots, pathway scoring, and MOFA+ multi-omics factor analysis.
+`20440_project.ipynb`: full analysis including UMAPs, IgA/IgG plasma cell marker gene dot plots, pathway scoring, and MOFA+ multi-omics factor analysis.
 
 ## Data
 
@@ -25,10 +25,3 @@ Large files (`Colon_cell_atlas.h5ad`, `Colon_immune_counts.mtx`) are excluded fr
 ## Reference
 
 James, K.R., Gomes, T., Elmentaite, R. et al. Distinct microbial and immune niches of the human colon. *Nat Immunol* 21, 343–353 (2020). https://doi.org/10.1038/s41590-020-0602-z
-
-## Environment
-
-```bash
-conda activate scanpy   # scRNA-seq analysis
-jupyter notebook
-```

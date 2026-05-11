@@ -14,6 +14,8 @@ Single-cell RNA-seq and 16S microbiome analysis of the human colon, examining ho
 
 Large files (`Colon_cell_atlas.h5ad`, `Colon_immune_counts.mtx`) are excluded from this repo due to size. Download from the [Gut Cell Atlas](https://www.gutcellatlas.org/) (James et al. 2020).
 
+- `Colon_cell_atlas.h5ad` — direct download: https://cellgeni.cog.sanger.ac.uk/gutcellatlas/Colon_cell_atlas.h5ad
+
 | File | Description |
 |------|-------------|
 | `data/16s_microbiome_composition.csv` | 16S taxonomic composition per sample |

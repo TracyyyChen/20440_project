@@ -24,3 +24,6 @@ _make_paper_notebook.py
 ignore/
 iga_plasma_wilcoxon_stats.csv
 igg_plasma_wilcoxon_stats.csv
+
+# Large generated data files — run build_eggnog_annotations.py to recreate
+data/eggnog_annotations.tsv

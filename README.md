@@ -27,7 +27,7 @@ Included data files:
 | `data/Colon_immune_metadata.csv` | Cell-level metadata (donor, region, cell type, clonotype) |
 | `data/Colon_immune_gene_names.csv` | Gene name list for sparse counts matrix |
 | `data/supplemental_data_edited.xlsx` | Supplemental tables from James et al. 2020 (16S abundances, plasma antibody titers) |
-| `data/eggnog_annotations.tsv` | Merged eggNOG functional annotations across donors and isotypes |
+| `data/eggnog_annotations.tsv` | Merged eggNOG functional annotations across donors and isotypes — **not in repo**, generate with `python build_eggnog_annotations.py` (requires `eggnog/` source files) |
 | `data/metagenomics_taxa.csv` | Merged MetaPhlAn taxonomic profiles |
 | `humann/` | HUMAnN 3/4 per-sample outputs (gene families, pathway abundances, MetaPhlAn profiles) |
 

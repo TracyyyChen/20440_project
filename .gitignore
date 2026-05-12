@@ -18,5 +18,9 @@ iga_plasma_dotplot_fig5a.pdf
 **/.DS_Store
 
 # Other notebooks and scripts not part of main analysis
-20440_paper_figures.ipynb
 _make_paper_notebook.py
+
+# Local scratch / ignored outputs (keep off GitHub)
+ignore/
+iga_plasma_wilcoxon_stats.csv
+igg_plasma_wilcoxon_stats.csv
